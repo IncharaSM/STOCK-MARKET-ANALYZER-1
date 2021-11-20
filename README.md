@@ -21,9 +21,9 @@ A python executable file that visualises and predicts stock rates using differen
 3. Tabular presentation of stocks using numpy module
 4. Analysing and scaling data using pandas, minmaxscalar libraries
 
-###Pre-requisites
+### Pre-requisites
 1. VsCode or any online text editor (preferably Jupyter notebook)
 2. Python libraries (mentioned above)
 3. Dataset for stock rates
 
-####Made by Inchara SM & Ishika Gupta
+#### Made by Inchara SM & Ishika Gupta
